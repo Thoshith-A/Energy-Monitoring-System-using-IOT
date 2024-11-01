@@ -14,7 +14,7 @@ Materials Used:
 5)Buzzer
 
 6)9 Volt HW Battery
-![WhatsApp Image 2024-10-22 at 16 15 14_21b4b1ec](https://github.com/user-attachments/assets/aed7944d-bbaa-4a31-acaa-f9378d22cd96)
+
 ![WhatsApp Image 2024-10-22 at 16 15 15_ee926f54](https://github.com/user-attachments/assets/a3d96fc5-9626-4edb-bfc2-c61808559a96)
 ![WhatsApp Image 2024-10-22 at 16 15 15_f4c87bb4](https://github.com/user-attachments/assets/916ccf85-e886-4b35-ae93-c5670402f34f)
 ![WhatsApp Image 2024-10-22 at 16 15 15_1ff6d73a](https://github.com/user-attachments/assets/1ac31e74-555a-4968-9b62-1651cd45437e)
